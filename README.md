@@ -17,7 +17,7 @@ Au boulot je m'occupe de l'Active Directory, du réseau et du support utilisateu
 | [**homelab-ia**](https://github.com/Lajavel-gg/homelab-ia) | IA 100 % locale sur un DGX Spark + homelab Proxmox : chat, images, vidéo, 3D, correcteur pour la dyslexie, agent qui administre Proxmox, VPN, sauvegardes impossibles à effacer |
 | [**supervision-proxmox**](https://github.com/Lajavel-gg/supervision-proxmox) | Tableau de bord de supervision Proxmox, installé en une ligne dans un conteneur Alpine |
 | [**mobiglas-ai**](https://github.com/Lajavel-gg/mobiglas-ai) | Assistant IA en overlay pour Star Citizen |
-| [**TP_devAPI**](https://github.com/Lajavel-gg/TP_devAPI) | API des entreprises françaises (base SIREN) en microservices conteneurisés |
+| [**TP_devAPI**](https://github.com/Lajavel-gg/TP_devAPI) | Projet de groupe en formation : API des entreprises françaises (base SIREN) en microservices conteneurisés |
 
 #### Me contacter
 
